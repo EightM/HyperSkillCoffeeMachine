@@ -1,0 +1,8 @@
+
+{
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ƒ…ÎÙıÿÿÿÿ8ï¯Øä†.
+V
+squid:S106%"9Replace this use of System.out or System.err by a logger.(äã–8ÒÇä†.
+8squid:S1220""Move this file to a named package.8’¦õã†.
+V
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ûåóˆ8ÒÇä†.

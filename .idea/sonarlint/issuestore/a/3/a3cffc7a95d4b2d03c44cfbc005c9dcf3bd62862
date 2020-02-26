@@ -1,0 +1,12 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ðÿ™ô8Ù‹µ”†.
+Ksquid:S1199"-Extract this nested code block into a method.(Öªýù8Æô£”†.
+Psquid:S1199"-Extract this nested code block into a method.(ÜÛ›÷øÿÿÿÿ8Èõ·”†.
+8squid:S1220""Move this file to a named package.8¬ÐŸ”†.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(þšÚ«8èŠ«”†.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚ÃÖùþÿÿÿÿ8‘‡½”†.
+Ksquid:S1199"-Extract this nested code block into a method.(õ±–¦8¾Ù±”†.
+\"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(Þ´ùåúÿÿÿÿ8¨Î¡”†.

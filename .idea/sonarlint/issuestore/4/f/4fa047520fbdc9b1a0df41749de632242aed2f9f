@@ -1,0 +1,8 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡ò†şÿÿÿÿ8àÄÆç….
+]squid:S1854":Remove this useless assignment to local variable "number".(ôäµ™şÿÿÿÿ8¾îãç….
+8squid:S1220""Move this file to a named package.8•ëæ….
+Nsquid:S1481"+Remove this unused "number" local variable.(ôäµ™şÿÿÿÿ8¾îãç….
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ìÑÑÈÿÿÿÿÿ8àÄÆç….

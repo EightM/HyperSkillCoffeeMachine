@@ -1,0 +1,77 @@
+
+„"squid:ClassVariableVisibilityCheck"PMake milk a static final constant or non-public and provide accessors if needed.(¼Ğÿ@8Û—ëä‡.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ßìòöûÿÿÿÿ8·Œíä‡.
+€squid:S1192\"bDefine a constant instead of duplicating this literal "Sorry, don't enough coffee beans!" 3 times.(·È›è8©±ıå‡.
+[
+squid:S106{"9Replace this use of System.out or System.err by a logger.(ˆÏÇŞıÿÿÿÿ8 Ãæ‡.
+V
+squid:S106u"9Replace this use of System.out or System.err by a logger.(·È›è8ü’ûå‡.
+\
+squid:S106œ"9Replace this use of System.out or System.err by a logger.(õÙÕºúÿÿÿÿ8Û—ëä‡.
+V
+squid:S106 "9Replace this use of System.out or System.err by a logger.(²ÜŒb8ó»Êå‡.
+[
+squid:S106,"9Replace this use of System.out or System.err by a logger.(´Ô·Üúÿÿÿÿ8ªÁÑå‡.
+[
+squid:S106o"9Replace this use of System.out or System.err by a logger.(‘õÆÅÿÿÿÿÿ8ü’ûå‡.
+…"squid:ClassVariableVisibilityCheck
+"PMake cups a static final constant or non-public and provide accessors if needed.(æ‹ô¼8Û—ëä‡.
+xsquid:S1192_"ZDefine a constant instead of duplicating this literal "Sorry, don't enough cups!" 3 times.(õ¸Æ8©±ıå‡.
+[
+squid:S106;"9Replace this use of System.out or System.err by a logger.(ŒÅûÿÿÿÿÿ8¢¼Ìå‡.
+Isquid:S1444"+Make this "public static water" field final(Ç¬Éğ8Û—ëä‡.
+[
+squid:S1068"9Replace this use of System.out or System.err by a logger.(Íó±ñùÿÿÿÿ8ó»Êå‡.
+V
+squid:S106\"9Replace this use of System.out or System.err by a logger.(·È›è8ê¾÷å‡.
+W
+squid:S106‹"9Replace this use of System.out or System.err by a logger.(·È›è8©±ıå‡.
+\
+squid:S106›"9Replace this use of System.out or System.err by a logger.(¤¹é€úÿÿÿÿ8Û—ëä‡.
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(õ¸Æ8©±ıå‡.
+Nsquid:S1444"+Make this "public static money" field final(‘‹¢üşÿÿÿÿ8Û—ëä‡.
+[
+squid:S106P"9Replace this use of System.out or System.err by a logger.(–÷Ò©üÿÿÿÿ8ó»Êå‡.
+[
+squid:S106b"9Replace this use of System.out or System.err by a logger.(ˆÏÇŞıÿÿÿÿ8˜ßæ‡.
+\
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8µĞÙå‡.
+V
+squid:S106@"9Replace this use of System.out or System.err by a logger.(ŠïıÔ8ó»Êå‡.
+[
+squid:S106r"9Replace this use of System.out or System.err by a logger.(Ç €Œşÿÿÿÿ8ü’ûå‡.
+~squid:S1192V"[Define a constant instead of duplicating this literal "Sorry, don't enough water!" 3 times.(‘õÆÅÿÿÿÿÿ8©±ıå‡.
+Tsquid:S1444	"1Make this "public static coffeeBeans" field final(®×‹Çùÿÿÿÿ8Û—ëä‡.
+[
+squid:S1065"9Replace this use of System.out or System.err by a logger.(…¼Ñíøÿÿÿÿ8ó»Êå‡.
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(µÉşĞÿÿÿÿÿ8Û—ëä‡.
+‘"squid:ClassVariableVisibilityCheck	"WMake coffeeBeans a static final constant or non-public and provide accessors if needed.(®×‹Çùÿÿÿÿ8Û—ëä‡.
+‘squid:S1192b"nDefine a constant instead of duplicating this literal "I have enough resources, making you a coffee!" 3 times.(ˆÏÇŞıÿÿÿÿ8˜ßæ‡.
+V
+squid:S106x"9Replace this use of System.out or System.err by a logger.(õ¸Æ8ü’ûå‡.
+[
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(Ç €Œşÿÿÿÿ8‚©÷å‡.
+†"squid:ClassVariableVisibilityCheck"QMake water a static final constant or non-public and provide accessors if needed.(Ç¬Éğ8Û—ëä‡.
+Hsquid:S1444
+"*Make this "public static cups" field final(æ‹ô¼8Û—ëä‡.
+‹"squid:ClassVariableVisibilityCheck"QMake money a static final constant or non-public and provide accessors if needed.(‘‹¢üşÿÿÿÿ8Û—ëä‡.
+V
+squid:S106_"9Replace this use of System.out or System.err by a logger.(õ¸Æ8°Çúå‡.
+Gsquid:S1444"*Make this "public static milk" field final(¼Ğÿ@8Û—ëä‡.
+\
+squid:S106‘"9Replace this use of System.out or System.err by a logger.(ˆÏÇŞıÿÿÿÿ8áıÿå‡.
+V
+squid:S1062"9Replace this use of System.out or System.err by a logger.(‘ÀºÚ8ï¨Åå‡.
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(­á„Á8Û—ëä‡.
+\
+squid:S106Ÿ"9Replace this use of System.out or System.err by a logger.(Ï”“şÿÿÿÿ8Û—ëä‡.
+[
+squid:S106V"9Replace this use of System.out or System.err by a logger.(‘õÆÅÿÿÿÿÿ8ó»Êå‡.
+\
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(‘õÆÅÿÿÿÿÿ8©±ıå‡.
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(°û¬ ÿÿÿÿÿ8¢Íêå‡.
